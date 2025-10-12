@@ -37,7 +37,9 @@ Creative Full-Stack Developer passionate about building modern web experiences. 
 <div align="left">
   
 ![Stats](https://github-readme-stats.vercel.app/api?username=Pupler&show_icons=true&hide_border=true&bg_color=1A1A1A&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_radius=5) 
+<br/>
 ![Streak](https://streak-stats.demolab.com?user=Pupler&hide_border=true&background=1A1A1A&border_radius=5&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9&stroke=58A6FF&sideLabels=58A6FF&dates=C9D1D9&sideNums=C9D1D9)
+<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupler&layout=compact&hide_border=true&bg_color=1A1A1A&title_color=58A6FF&text_color=C9D1D9&border_radius=5)
 
 </div>
