@@ -8,7 +8,7 @@ Creative Full-Stack Developer passionate about building modern web experiences. 
    <a href="https://github.com/Pupler?tab=followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Pupler?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
    <a href="https://github.com/Pupler?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Pupler?color=eea300&style=for-the-badge&labelColor=d49100&logo=star"/></a>
+      <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Pupler?color=eea300&style=for-the-badge&labelColor=d49100&logo=github"/></a>
    <a href="https://github.com/Pupler?tab=repositories">
    <img alt="repositories" src="https://badges.strrl.dev/repos/Pupler?color=0d9b00&style=for-the-badge&labelColor=0b8500&label=Public+Repositories"/></a>
 </p>
