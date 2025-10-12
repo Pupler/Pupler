@@ -13,9 +13,9 @@ Creative Full-Stack Developer passionate about building modern web experiences. 
    <img alt="repositories" src="https://badges.strrl.dev/repos/Pupler?color=0d9b00&style=for-the-badge&labelColor=0b8500&label=Public+Repositories"/></a>
 </p>
 
----
-
+#
 ### 🧰 Languages and Tools
+
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
@@ -32,7 +32,7 @@ Creative Full-Stack Developer passionate about building modern web experiences. 
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <br/>
 
----
+#
 
 <div align="left">
   
