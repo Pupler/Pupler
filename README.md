@@ -2,7 +2,7 @@
 
 **`Creative Technologist (Python / PHP / C# / Java)`**
 
-Creative Full-Stack Developer passionate about building modern web experiences. Skilled in Python, HTML, CSS, and PHP — with a strong sense for design and responsive development.
+Creative Technologist passionate about building modern web experiences. Skilled in Python, HTML, CSS, and PHP — with a strong sense for design and responsive development.
 
 <p align="left">
    <a href="https://github.com/Pupler?tab=followers">
