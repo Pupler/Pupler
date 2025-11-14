@@ -7,11 +7,10 @@ Skilled in Python, HTML, CSS, JavaScript, PHP — with a strong sense for design
 
 <p align="left">
    <a href="https://github.com/Pupler?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Pupler?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+      <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Pupler?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers"/></a>
    <a href="https://github.com/Pupler?tab=repositories&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Pupler?color=eea300&style=for-the-badge&labelColor=d49100&logo=github"/></a>
-   <a href="https://github.com/Pupler?tab=repositories">
-   <img alt="repositories" src="https://badges.strrl.dev/repos/Pupler?color=0d9b00&style=for-the-badge&labelColor=0b8500&label=Public+Repositories"/></a>
+   <img alt="repositories" src="https://img.shields.io/badge/dynamic/json?color=0d9b00&style=for-the-badge&labelColor=0b8500&logo=github&label=Repositories&query=public_repos&url=https://api.github.com/users/Pupler"/>
 </p>
 
 #
