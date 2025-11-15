@@ -6,11 +6,9 @@ Creative Technologist passionate about building modern web and desktop experienc
 Skilled in Python, HTML, CSS, JavaScript, PHP — with a strong sense for design and responsive development.
 
 <p align="left">
-   <a href="https://github.com/Pupler?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Pupler?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers"/></a>
-   <a href="https://github.com/Pupler?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Pupler?color=eea300&style=for-the-badge&labelColor=d49100&logo=github"/></a>
-   <img alt="repositories" src="https://img.shields.io/badge/dynamic/json?color=0d9b00&style=for-the-badge&labelColor=0b8500&logo=github&label=Repositories&query=public_repos&url=https://api.github.com/users/Pupler"/>
+   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Pupler?style=for-the-badge&color=236ad3&labelColor=1155ba">
+   <img alt="Git User's stars" src="https://img.shields.io/github/stars/Pupler?style=for-the-badge&color=eea300&labelColor=d49100"&label=Stars>
+   <img alt="GitHub repositories" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=0d9b00&labelColor=0b8500&label=Repositories&query=public_repos&url=https://api.github.com/users/Pupler">
 </p>
 
 #
