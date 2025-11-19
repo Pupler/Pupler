@@ -8,7 +8,7 @@ Skilled in Python, HTML, CSS, JavaScript, PHP — with a strong sense for design
 <p align="left">
    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Pupler?style=for-the-badge&color=236ad3&labelColor=1155ba">
    <img alt="Git User's stars" src="https://img.shields.io/github/stars/Pupler?style=for-the-badge&color=eea300&labelColor=d49100"&label=Stars>
-   <img alt="GitHub repositories" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=0d9b00&labelColor=0b8500&label=Repositories&query=public_repos&url=https://api.github.com/users/Pupler">
+   <img alt="GitHub repositories" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=0d9b00&labelColor=0b8500&label=Public+Repositories&query=public_repos&url=https://api.github.com/users/Pupler">
 </p>
 
 #
