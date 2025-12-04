@@ -38,9 +38,9 @@ Skilled in Python, HTML, CSS, JavaScript, PHP — with a strong sense for design
 
 <div align="left">
   
-![Stats](https://github-readme-stats.vercel.app/api?username=Pupler&show_icons=true&hide_border=true&bg_color=1A1A1A&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_radius=0) 
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pupler&show_icons=true&hide_border=true&bg_color=1A1A1A&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_radius=0)
 <br/>
-![Streak](https://streak-stats.demolab.com?user=Pupler&hide_border=true&background=1A1A1A&border_radius=0&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9&stroke=58A6FF&sideLabels=58A6FF&dates=C9D1D9&sideNums=C9D1D9)
+![GitHub Streak](https://github-readme-streak-stats-olive-two.vercel.app/?user=Pupler&theme=dark&hide_border=true&background=1A1A1A&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&dates=C9D1D9)
 <br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupler&layout=compact&hide_border=true&bg_color=1A1A1A&title_color=58A6FF&text_color=C9D1D9&border_radius=0)
 
