@@ -1,6 +1,6 @@
 # 👋 Hello there, I'm Mykhailo
 
-**`Creative Technologist (Python / PHP / C# / Java)`**
+**`Creative Technologist (C# / C++ / TypeScript / React)`**
 
 Creative Technologist passionate about building modern web and desktop experiences. <br>
 Skilled in Python, HTML, CSS, JavaScript, PHP — with a strong sense for design and responsive development.
