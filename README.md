@@ -42,6 +42,6 @@ Skilled in Python, HTML, CSS, JavaScript, PHP — with a strong sense for design
 <br/>
 ![GitHub Streak](https://github-readme-streak-stats-olive-two.vercel.app/?user=Pupler&theme=dark&hide_border=true&background=1A1A1A&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&dates=C9D1D9)
 <br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupler&layout=compact&hide_border=true&bg_color=1A1A1A&title_color=58A6FF&text_color=C9D1D9&border_radius=0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupler&layout=compact&hide_border=true&bg_color=1A1A1A&title_color=58A6FF&text_color=C9D1D9&border_radius=0&cache_seconds=1800)
 
 </div>
