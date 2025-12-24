@@ -2,8 +2,8 @@
 
 **`Creative Technologist (C# / C++ / TypeScript / React)`**
 
-Creative Technologist passionate about building modern web and desktop experiences. <br>
-Skilled in Python, HTML, CSS, JavaScript, PHP — with a strong sense for design and responsive development.
+Creative Technologist focused on crafting modern, user-friendly web and desktop solutions.
+Experienced in Python, HTML, CSS, JavaScript, and PHP, with a strong eye for design, usability, and responsive interfaces.
 
 <p align="left">
    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Pupler?style=for-the-badge&color=236ad3&labelColor=1155ba">
