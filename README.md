@@ -51,9 +51,9 @@ I bridge the gap between robust back-end logic and intuitive front-end experienc
   
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pupler&show_icons=true&hide_border=true&bg_color=1A1A1A&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_radius=0)
 <br/>
-![GitHub Streak](https://github-readme-streak-stats-olive-two.vercel.app/?user=Pupler&theme=dark&hide_border=true&background=1A1A1A&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&dates=C9D1D9)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Pupler&theme=dark&hide_border=true&background=1A1A1A&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&dates=C9D1D9)
 <br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupler&layout=compact&hide_border=true&bg_color=1A1A1A&title_color=58A6FF&text_color=C9D1D9&border_radius=0&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupler&layout=compact&hide_border=true&bg_color=1A1A1A&title_color=58A6FF&text_color=C9D1D9&border_radius=0&cache_seconds=1800&langs_count=4)
 
 </div>
 
@@ -61,7 +61,6 @@ I bridge the gap between robust back-end logic and intuitive front-end experienc
 
 I am always open to discussing interesting projects, new technologies, or creative ideas.
 
-[![GitHub](https://img.shields.io/badge/@Pupler-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pupler)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pupler)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mykhailo.github@gmail.com)
 
